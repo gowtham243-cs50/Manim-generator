@@ -1,0 +1,13 @@
+# Contents of the file: /fastapi-docker-project/fastapi-docker-project/.dockerignore
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+venv/
+*.log
+*.mp4
+media/

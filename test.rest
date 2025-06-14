@@ -1,0 +1,6 @@
+POST http://localhost:8000/visualise/ HTTP/1.1
+content-type: application/json
+
+{
+    "question": "Circle to Square"
+}
